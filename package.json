@@ -1,0 +1,26 @@
+{
+"name": "feikaungbaobei78feue-shaoluoawai",
+"version": "1.0.0",
+"description": "We plan to further enhance the project in the future and add more useful features and functionalities",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/perspicuou/Future-Plans.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "perspicuou",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
